@@ -1,0 +1,4 @@
+name: KMachinePlugin
+version: '1.0'
+main: brcomkassin.KMachinePlugin
+api-version: '1.20'
